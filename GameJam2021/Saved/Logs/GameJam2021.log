@@ -658,3 +658,120 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-15.47.28:166][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.01.29-15.47.44:561][983]LogAssetRegistry: Asset discovery search completed in 26.8393 seconds
 [2021.01.29-15.47.44:564][983]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.01.29-15.52.31:453][241]LogSlate: Took 0.083472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoColorEmoji.ttf' (7610K)
+[2021.01.29-15.52.45:351][ 72]LogSlate: Window 'Plugins' being destroyed
+[2021.01.29-15.52.45:356][ 72]LogSlate: Window 'Plugins' being destroyed
+[2021.01.29-15.52.45:357][ 72]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.01.29-15.55.06:931][548]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.29-15.56.17:957][789]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.29-15.56.19:015][789]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.29-15.57.39:753][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/BP_TestGit" FILE="../../../../../../GitKraken/GameJam2021/GameJam2021/Content/ThirdPersonBP/BP_TestGit.uasset" SILENT=true
+[2021.01.29-15.57.39:760][617]LogSavePackage: Moving '../../../../../../GitKraken/GameJam2021/GameJam2021/Saved/BP_TestGitACB3B5284EDEFA38626E4EB296A50599.tmp' to '../../../../../../GitKraken/GameJam2021/GameJam2021/Content/ThirdPersonBP/BP_TestGit.uasset'
+[2021.01.29-15.57.40:438][617]AssetCheck: New page: Asset Save: BP_TestGit
+[2021.01.29-15.57.40:438][617]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/BP_TestGit.BP_TestGit
+[2021.01.29-15.57.54:044][316]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.29-15.57.55:701][316]LogSlate: Window 'Message' being destroyed
+[2021.01.29-15.57.55:708][316]Message dialog closed, result: Ok, title: Message, text: Check-in failed as a result of save failure.
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:833][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:834][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:834][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:834][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:834][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.11:834][275]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-15.58.42:140][275]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.29-15.58.42:682][275]LogSourceControl: commit successful: [main 6414d0e] BP_TestGit added as a test to see how to use this
+[2021.01.29-15.58.42:748][275]SourceControl: [main 6414d0e] BP_TestGit added as a test to see how to use this
+[2021.01.29-15.58.42:748][275]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.01.29-15.58.42:748][275]SourceControl:  create mode 100644 GameJam2021/Content/ThirdPersonBP/BP_TestGit.uasset
+[2021.01.29-15.58.42:756][275]SourceControl: Commited [main 6414d0e] BP_TestGit added as a test to see how to use this.
+[2021.01.29-15.59.08:084][491]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/BP_TestGit.BP_TestGit
+[2021.01.29-15.59.08:612][491]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2021.01.29-15.59.10:087][491]LogRenderer: Reallocating scene render targets to support 1128x552 Format 10 NumSamples 1 (Frame:1).
+[2021.01.29-15.59.12:256][619]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.29-15.59.25:426][394]BlueprintLog: New page: Compile BP_TestGit
+[2021.01.29-15.59.25:457][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.01.29-15.59.25:617][394]LogSlate: Took 0.139693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.29-15.59.26:545][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/BP_TestGit" FILE="../../../../../../GitKraken/GameJam2021/GameJam2021/Content/ThirdPersonBP/BP_TestGit.uasset" SILENT=true
+[2021.01.29-15.59.26:555][444]LogSavePackage: Moving '../../../../../../GitKraken/GameJam2021/GameJam2021/Saved/BP_TestGit7C5547B94A8FAE18E515A286EFEE0943.tmp' to '../../../../../../GitKraken/GameJam2021/GameJam2021/Content/ThirdPersonBP/BP_TestGit.uasset'
+[2021.01.29-15.59.26:567][444]AssetCheck: New page: Asset Save: BP_TestGit
+[2021.01.29-15.59.26:567][444]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/BP_TestGit.BP_TestGit
+[2021.01.29-15.59.27:720][497]LogSlate: Took 0.271684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.29-15.59.28:672][554]LogSlate: Window 'BP_TestGit' being destroyed
+[2021.01.29-15.59.28:687][554]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-15.59.28:687][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-16.00.11:253][ 76]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.29-16.00.12:077][ 76]LogSourceControl: commit successful: [main b387fac] BP_TestGit has a non connected print string to test git
+[2021.01.29-16.00.12:145][ 76]SourceControl: [main b387fac] BP_TestGit has a non connected print string to test git
+[2021.01.29-16.00.12:145][ 76]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.01.29-16.00.12:145][ 76]SourceControl:  rewrite GameJam2021/Content/ThirdPersonBP/BP_TestGit.uasset (73%)
+[2021.01.29-16.00.12:153][ 76]SourceControl: Commited [main b387fac] BP_TestGit has a non connected print string to test git.
+[2021.01.29-16.56.19:215][213]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.29-16.56.32:312][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/CanYouSeeThisNico" FILE="../../../../../../GitKraken/GameJam2021/GameJam2021/Content/ThirdPersonBP/CanYouSeeThisNico.uasset" SILENT=true
+[2021.01.29-16.56.32:320][985]LogSavePackage: Moving '../../../../../../GitKraken/GameJam2021/GameJam2021/Saved/CanYouSeeThisNico4DD93FC24824474A6E7687BDF22718C6.tmp' to '../../../../../../GitKraken/GameJam2021/GameJam2021/Content/ThirdPersonBP/CanYouSeeThisNico.uasset'
+[2021.01.29-16.56.32:780][985]AssetCheck: New page: Asset Save: CanYouSeeThisNico
+[2021.01.29-16.56.32:780][985]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/CanYouSeeThisNico.CanYouSeeThisNico
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.39:480][382]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-16.56.51:838][382]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.29-16.56.52:403][382]LogSourceControl: commit successful: [main 521eda5] TestDuringTheNicoJoshtalk
+[2021.01.29-16.56.52:469][382]SourceControl: [main 521eda5] TestDuringTheNicoJoshtalk
+[2021.01.29-16.56.52:469][382]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.01.29-16.56.52:469][382]SourceControl:  create mode 100644 GameJam2021/Content/ThirdPersonBP/CanYouSeeThisNico.uasset
+[2021.01.29-16.56.52:476][382]SourceControl: Commited [main 521eda5] TestDuringTheNicoJoshtalk.
+[2021.01.29-17.05.18:687][848]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.29-17.05.28:861][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/BranchTime" FILE="../../../../../../GitKraken/GameJam2021/GameJam2021/Content/ThirdPersonBP/BranchTime.uasset" SILENT=true
+[2021.01.29-17.05.28:868][445]LogSavePackage: Moving '../../../../../../GitKraken/GameJam2021/GameJam2021/Saved/BranchTimeC09ECB8049117EDB9474ECA5B00B23FC.tmp' to '../../../../../../GitKraken/GameJam2021/GameJam2021/Content/ThirdPersonBP/BranchTime.uasset'
+[2021.01.29-17.05.29:314][445]AssetCheck: New page: Asset Save: BranchTime
+[2021.01.29-17.05.29:314][445]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/BranchTime.BranchTime
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.33:218][673]SourceControl: fatal: D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/GitKraken/GameJam2021'
+[2021.01.29-17.05.49:074][673]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.29-17.05.49:784][673]LogSourceControl: commit successful: [TestBranch 77d3a44] TestingOutBrnachFunctions by adding branchtime
+[2021.01.29-17.05.49:850][673]SourceControl: [TestBranch 77d3a44] TestingOutBrnachFunctions by adding branchtime
+[2021.01.29-17.05.49:850][673]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.01.29-17.05.49:850][673]SourceControl:  create mode 100644 GameJam2021/Content/ThirdPersonBP/BranchTime.uasset
+[2021.01.29-17.05.49:860][673]SourceControl: Commited [TestBranch 77d3a44] TestingOutBrnachFunctions by adding branchtime.
